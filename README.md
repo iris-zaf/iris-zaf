@@ -36,5 +36,4 @@ I am coding to become a Full Stack Developer <img src="https://media.giphy.com/m
 </div>
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iris-zaf&theme=dark&background=000000)](https://git.io/streak-stats)
+
