@@ -14,7 +14,7 @@
 
 ### :woman_technologist: About Me :
 I am coding to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: I’m working at an eshop currently, but coding became my passion the last few months.
+
 
 - :seedling: I like exploring new ideas and ways to code, the journey never stops!
 
