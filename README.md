@@ -16,7 +16,7 @@ I am  a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - :seedling: I like exploring new ideas and ways to code, the journey never stops!
 
-- :zap: In my free time, I like creating responsive pages, even though I am still a beginner
+- :zap: In my free time, I like creating responsive pages
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iris-kalogirou/)
 ### :hammer_and_wrench: Languages and Tools I am currently learning :
