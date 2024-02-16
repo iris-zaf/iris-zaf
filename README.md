@@ -13,6 +13,8 @@
 ### :woman_technologist: About Me :
 
 
+- :greece: Based in Athens
+  
 - :seedling: I like exploring new ideas and ways to code, the journey never stops!
 
 - :zap: In my free time, I like creating responsive pages
